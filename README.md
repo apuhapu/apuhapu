@@ -1,4 +1,8 @@
-### Hi there 👋
+# Tak Dae Yeol
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apuhapu&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laks7985)](https://solved.ac/laks7985/)
+![apuhapu's GitHub stats](https://github-readme-stats.vercel.app/api?username=apuhapu&show_icons=true&theme=dark)   
+
 
 <!--
 **apuhapu/apuhapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
